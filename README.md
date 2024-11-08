@@ -17,3 +17,5 @@ root
 2. Insert the SD card into the Miyoo device and turn it on
 
 3. Chose "Fuck macOS" and click button `A`
+
+![MainUI_001](https://github.com/user-attachments/assets/60e9ca03-1559-4b46-b169-891bfc65323b)
